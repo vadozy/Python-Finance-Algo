@@ -1,0 +1,20 @@
+###### Requirements without Version Specifiers ######
+nose
+nose-cov
+beautifulsoup4
+numpy
+scipy
+matplotlib
+ipython
+jupyter
+pandas
+sympy
+scikit-learn
+#
+###### Requirements with Version Specifiers ######
+# See https://www.python.org/dev/peps/pep-0440/#version-specifiers
+# EXAMPLE #  docopt == 0.6.1             # Version Matching. Must be version 0.6.1
+# EXAMPLE #  keyring >= 4.1.1            # Minimum version 4.1.1
+# EXAMPLE #  coverage != 3.5             # Version Exclusion. Anything except version 3.5
+# EXAMPLE #  Mopidy-Dirble ~= 1.1        # Compatible release. Same as >= 1.1, == 1.*
+pandas-datareader==0.4.0
