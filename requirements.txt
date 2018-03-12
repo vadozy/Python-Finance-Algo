@@ -11,5 +11,6 @@ pandas-datareader
 quandl
 scikit-learn
 scipy
+statsmodels
 sympy
 xlrd
