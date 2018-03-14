@@ -1,9 +1,8 @@
-import pandas as pd
 from dateutil.parser import parse
 
 
 def accumulated_returns(s, date_from, date_to):
-    """Returns accumulated return rate 
+    """Returns accumulated return rate
 
     Args:
         s (pandas Series) with prices

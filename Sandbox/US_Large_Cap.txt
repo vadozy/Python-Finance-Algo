@@ -1,0 +1,1386 @@
+-- -- http://investsnips.com/large-cap-stocks/
+
+-- Aerospace and Defense
+
+Arconic Inc. WIKI/ARNC (Precision engineering and advanced manufacturing: aerospace, automotive market)
+Boeing Company WIKI/BA (World’s largest aerospace company; commercial jetliners; defense, drones, space and security systems)
+General Dynamics Corporation WIKI/GD (Jet aircraft, combat vehicles, communication systems, cyber security, information technology systems, mission support services, munitions, shipbuilding, submarines and weapons systems)
+Harris Corporation WIKI/HRS (Military and commercial markets: communications and information systems; tactical radios; network solutions for air traffic control and systems)
+Honeywell International Inc. WIKI/HON  (Aerospace products and services for commercial and military markets: turbochargers; performance materials; sensing and security technologies)
+L-3 Communications Holdings, Inc. WIKI/LLL (Aerospace products and services for commercial and military markets; communication and electronic systems)
+Lockheed Martin Corporation WIKI/LMT (Aeronautical research, IT services, the Joint Light Tactical Vehicle, naval systems, PAC-3 Missiles, satellites (commercial and government), space launch, strategic missiles, systems integration, training, tactical aircraft and the Terminal High Altitude Area Defense System)
+Northrop Grumman Corporation WIKI/NOC (Cyber security, command and control, communications, intelligence, logistics, reconnaissance, strike aircraft, surveillance, unmanned systems)
+Raytheon Company WIKI/RTN (Aerospace products and services for commercial and military markets: integrated defense systems, cybersecurity, missile systems, space and airborne systems)
+Rockwell Collins, Inc. WIKI/COL (Aerospace commercial and military markets: cabin electronics, communication systems, displays & surveillance systems, flight-deck avionics, mission communications, navigation and simulation and training solutions)
+Textron Inc. WIKI/TXT (Industrial conglomerate: helicopters, aircraft manufacturing; transportation vehicles for golf courses, industrial and electrical tools)
+Transdigm Group Incorporated WIKI/TDG (Aerospace commercial and military markets: components, security systems and subsystems, displays, audio systems)
+United Technologies Corporation WIKI/UTX (Conglomerate: aircraft engines, helicopters, HVAC, and other industrial products)
+
+
+-- Banks
+
+Bank of America Corporation WIKI/BAC
+BB&T Corporation WIKI/BBT
+Capital One Financial Corporation WIKI/COF
+Citigroup Inc. WIKI/C
+Citizens Financial Group, Inc. WIKI/CFG
+Comerica Incorporated WIKI/CMA
+First Republic Bank WIKI/FRC
+Fifth Third Bancorp WIKI/FITB
+Huntington Bancshares Incorporated WIKI/HBAN
+J P Morgan Chase & Co WIKI/JPM
+KeyCorp WIKI/KEY
+M&T Bank Corporation WIKI/MTB
+Northern Trust Corporation WIKI/NTRS
+PNC Financial Services Group, Inc. WIKI/PNC
+Regions Financial Corporation WIKI/RF
+State Street Corporation WIKI/STT
+SunTrust Banks, Inc. WIKI/STI
+U.S. Bancorp WIKI/USB
+Wells Fargo & Company WIKI/WFC
+
+
+-- Biotech
+
+AbbVie Inc. WIKI/ABBV (Biopharmaceutical company: immunology, kidney disease, liver disease, neuroscience, oncology, women’s health)
+Alexion Pharmaceuticals, Inc. WIKI/ALXN (Biopharmaceutical company: nocturnal hemoglobinuria, atypical hemolytic uremic syndrome, hypophosphatasia, Lysosomal Acid Lipase Deficiency)
+Amgen Inc. WIKI/AMGN (Therapeutics: cardiovascular, inflammation, oncology, biosimilars)
+AstraZeneca Plc. WIKI/AZN (United Kingdom, biopharmaceutical company: autoimmune, cardiovascular, infection, inflammation, metabolic, neuroscience, oncology, respiratory)
+Biogen Inc. WIKI/BIIB (Biopharmaceutical company: therapies for immunology, hematology, multiple sclerosis, neurology)
+BioMarin Pharmaceutical Inc. WIKI/BMRN (Therapies for serious and life-threatening rare and ultra-rare genetic diseases)
+Bristol-Myers Squibb Company WIKI/BMY (Biopharmaceutical company: cancer, cardiovascular disease, hepatitis B and hepatitis C, HIV/AIDS, rheumatoid arthritis)
+Celgene Corporation WIKI/CELG (Biopharmaceutical company: cancer and immune-inflammatory related diseases)
+Gilead Sciences, Inc. WIKI/GILD (Biopharmaceutical company: cardiovascular, human immunodeficiency virus (HIV), liver diseases, oncology and inflammation, respiratory)
+Grifols, S.A. WIKI/GRFS (Spain: Bioscience (treatment of medical conditions using blood or blood components), diagnostics, hospital (intravenous therapy products, clinical nutrition products, sterile products and medical devices), plasma derivatives)
+IDEXX Laboratories, Inc. WIKI/IDXX (Diagnostic and information technology-based solutions)
+Incyte Corporation WIKI/INCY (Biopharmaceutical company: small molecule drugs; oncology and inflammation)
+Regeneron Pharmaceuticals, Inc. WIKI/REGN (Biopharmaceutical company: Antibody technologies; cardiovascular, diabetes, eye diseases, infectious diseases, inflammation, oncology, pain)
+Shire Plc. WIKI/SHPG (Ireland, biopharmaceutical company: gastrointestinal, internal medicine, rare diseases, neuroscience)
+Vertex Pharmaceuticals Incorporated WIKI/VRTX (Cystic fibrosis; additional ongoing research programs aimed at other serious and life-threatening diseases)
+
+
+-- Business Services
+
+- Business Data, Information, Research and Analytics
+
+Equifax, Inc. WIKI/EFX (Financial, consumer and commercial data and analytical services)
+Nielsen Holdings plc WIKI/NLSN (Provides TV, radio, online and mobile media analytical and viewer consumption services and data)
+RELX N.V. WIKI/RENX (Information and analytics)
+RELX plc WIKI/RELX (Information and analytics)
+Verisk Analytics, Inc. WIKI/VRSK (Data analytics services for the insurance, energy, healthcare, financial services, government and risk management markets)
+
+
+- Consulting Firms
+
+Accenture Plc. WIKI/ACN (Ireland, large-sized company: management consulting, technology and outsourcing services)
+
+
+- Marketing and Advertising Services
+
+Alliance Data Systems Corporation WIKI/ADS (Analytics and creative services, customer loyalty programs, database marketing services, direct marketing services, end-to-end marketing services, private label and co-brand retail credit card programs)
+Omnicom Group Inc. WIKI/OMC (Traditional media advertising, customer relationship management, public relations, specialty communications)
+WPP Plc. WIKI/WPP (Advertising, marketing and communications services)
+
+
+- Payment and Transaction Processing Products and Services
+
+Fidelity National Information Services, Inc. WIKI/FIS (Banking and payment products)
+First Data, Inc. WIKI/FDC (IPO in October 2015: Payment processing)
+Fiserv, Inc. WIKI/FISV (Financial services technology)
+Global Payments Inc. WIKI/GPN (Transaction and payment products)
+Worldpay, Inc. WIKI/WP (Payment processor; EMV, fraud and data security services)
+
+
+- Professional Services 
+
+CGI Group, Inc. WIKI/GIB (Canada: IT and business process services)
+Paychex, Inc. WIKI/PAYX (Payroll, HR, retirement and insurance services)
+
+
+- Uniform Companies
+
+Cintas Corporation WIKI/CTAS (Uniforms, supplies and equipment, fire protection services)
+
+
+-- Chemical
+
+- Agricultural Chemicals
+
+Monsanto Company WIKI/MON (Seeds and Traits; Crop Protection)
+Mosaic Company WIKI/MOS (Potash and Phosphate)
+Nutrien Ltd. WIKI/NTR (Canada: Potash, nitrogen and phosphate; formed by the 2018 merger of Agrium Inc. and Potash Corporation of Saskatchewan Inc.)
+
+
+- Chemical Companies
+
+Celanese Corporation WIKI/CE (Specialty materials and chemical products: acetyl products and engineered polymers)
+DowDuPont Inc. WIKI/DWDP (Formed by the 2017 merger of The Dow Chemical Company and DuPont; Operates three divisions: Agricultural, Material Sciences and Specialty Products. The company offers a diverse portfolio that includes specialty chemicals, fluorochemicals, fluoropolymers, materials and plastics)
+Eastman Chemical Company WIKI/EMN (Chemicals, fibers and plastics)
+
+
+- Gases
+
+Air Products and Chemicals, Inc. WIKI/APD (Industrial gases: atmospheric gases, performance materials, process gases, specialty gases)
+Praxair, Inc. WIKI/PX (Industrial gases)
+
+
+- Paints and Coatings
+
+PPG Industries, Inc. WIKI/PPG (Coatings, Fiber Glass, Glass, Optical Products, Paints and Specialty Materials)
+Sherwin-Williams Company WIKI/SHW (Retail Stores: paints and coatings)
+
+
+- Specialty Chemicals
+
+Albemarle Corporation WIKI/ALB (Advanced and value-added products)
+International Flavors & Fragrances, Inc. WIKI/IFF (Flavors and fragrances)
+Lyondell Basell Industries N.V. WIKI/LYB (Chemicals, plastics and refining company)
+
+
+-- Construction
+
+- Air, Heat, Refrigeration and Plumbing
+
+Ingersoll-Rand Plc. WIKI/IR (Diversified Industrial Manufacturer: brands include Club Car, Ingersoll Rand, Thermo King and Trane)
+
+
+- Building Materials
+
+CRH Plc. WIKI/CRH (Ireland: building materials supplier)
+Fastenal Company WIKI/FAST (Fastener distributor)
+Masco Corporation WIKI/MAS (Diversified product manufacturer)
+
+
+- Concrete, Cement and Aggregates
+
+Cemex S.A.B. de C.V. WIKI/CX (Mexico– Aggregates, Ready-Mixed Concrete, Cement)
+Loma Negra Compañía Industrial Argentina Sociedad Anónima WIKI/LOMA (IPO November 1, 2017; Argentina: cement producer)
+Martin Marietta Materials, Inc. WIKI/MLM (Aggregates, ready-mixed concrete, asphalt, cement)
+Vulcan Materials Company WIKI/VMC (Aggregates, ready-mixed concrete, asphalt, cement)
+
+
+- Construction Machinery and Equipment
+
+Caterpillar, Inc. WIKI/CAT (Construction equipment, mining equipment, engines)
+Deere & Company WIKI/DE (Agricultural, construction, forestry and turf equipment)
+
+
+- Home Builders
+
+D.R. Horton, Inc. WIKI/DHI
+Lennar Corporation WIKI/LEN
+
+
+-- Consumer Goods
+
+- Appliances
+
+Whirlpool Corporation WIKI/WHR (Whirlpool, KitchenAid and Maytag)
+
+
+- Automobile Manufacturers
+
+Ferrari N.V. WIKI/RACE (IPO in October of 2015)
+Fiat Chrysler Automobiles N.V. WIKI/FCAU (Alfa Romeo, Chrysler, Dodge, Ferrari, Fiat, Jeep, Maserati, and Ram)
+Ford Motor Company WIKI/F (Ford and Lincoln)
+General Motors Company WIKI/GM (Chevrolet, Buick, Cadillac and GMC)
+Honda Motor Company, Ltd. WIKI/HMC (Japan: Accord and Civic)
+Tata Motors Ltd. WIKI/TTM (India)
+Tesla Motors, Inc. WIKI/TSLA (Electric vehicles)
+Toyota Motor Corp Ltd WIKI/TM (Japan: brands include 4runner, Camry, Corolla, Land Cruiser and Tacoma)
+
+
+- Beauty Products and Cosmetics  
+
+Coty Inc. WIKI/COTY (Fragrances, cosmetics and skin & body care)
+Estee Lauder Companies, Inc. WIKI/EL (Fragrance, hair care, make up and skin care products)
+
+
+- Cigarettes and Tobacco Products 
+
+Altria Group WIKI/MO (Marlboro, Copenhagen, Skoal and Black & Mild)
+British American Tobacco Plc. WIKI/BTI (Leading Global Tobacco Company in United Kingdom)
+Philip Morris International Inc. WIKI/PM (Marlboro, L&M, Bond Street, Virginia Slims, Parliament – A subsidiary of Altria Group)
+
+
+- Clothing and Apparel
+
+Nike, Inc. WIKI/NKE (Athletic Apparel: Athletic footwear, apparel and accessories: brands include NIKE, Hurley and Converse)
+V.F. Corporation WIKI/VFC (Apparel and footwear: outdoor & action sports; jeanswear, imagewear and sportswear; brands Lee, The North Face, Timberland, Vans and Wrangler)
+
+
+- Consumer Electronic Companies
+
+Canon, Inc. WIKI/CAJ (Business equipment and consumer goods: printers, copying machines, office MFDs, production print products, digital cameras and digital video camcorders)
+Koninklijke Philips N.V. WIKI/PHG (Netherlands, diversified technology: healthcare (cardiac care, acute care and home healthcare); lighting (lamps, automotive lighting); consumer goods (electric shavers, flat-TVs, etc.))
+Sony Corp WIKI/SNE (Japan: devices, electronic equipment, game consoles, instruments; markets include consumer, professional and industrial markets)
+
+
+- Consumer Packaged Goods
+
+Church & Dwight Company, Inc. WIKI/CHD (Brands include ARM & HAMMER, First Response, Nair, Oxi Clean, Orajel and Trojan)
+Clorox Company WIKI/CLX (Brands include Clorox, Fresh Step, Glad, Hidden Valley, Kingsford and Pine-Sol)
+Colgate-Palmolive Company WIKI/CL (Brands include Ajax, Colgate, Irish Spring, Palmolive and Softsoap)
+Kimberly-Clark Corporation WIKI/KMB (Brands include Depend, Huggies, Kleenex, Kotex, Pull-Ups and Scott)
+Procter & Gamble Company WIKI/PG (Brands include Always, Bounty, Charmin, Crest, Dawn, Downy, Febreze, Gain, Gillette, Head & Shoulders, Oral-B, Pampers, Pantene, Tide and Vicks)
+Unilever NV WIKI/UN (Netherlands: brands include Axe, Blue Band, Dove, Hellmann’s, Knorr, Lifebuoy, Lipton, Pureit, Suave and Sunlight)
+Unilever Plc. WIKI/UL (United Kingdom)
+
+
+- Home Furnishing
+
+Mohawk Industries, Inc. WIKI/MHK (Floor covering products)
+
+
+- Housewares
+
+Newell Brands Inc. WIKI/NWL (Business segments include baby and parenting, commercial products, home solutions, tools and writing brands)
+
+
+- Recreational and Commercial Vehicle Manufacturers  
+
+Harley-Davidson, Inc. WIKI/HOG (Motorcycles)
+
+
+- Toys and Games
+
+Hasbro, Inc. WIKI/HAS (Toy and game brands include Dungeons & Dragons, Magic: The Gathering, Monopoly, My Little Pony, Nerf, Play-Doh and Transformers)
+
+
+-- Consumer Service
+
+- Salon Services
+
+Ulta Salon, Cosmetics & Fragrance, Inc. WIKI/ULTA (Full-service salon; cosmetics and skin and hair care products)
+
+
+-- Entertainment and Leisure
+
+- Casinos
+
+Las Vegas Sands Corp. WIKI/LVS (The Venetian and The Palazzo)
+MGM Resorts International WIKI/MGM (Bellagio, MGM Grand, Mandalay Bay, The Mirage, New York-New York, Circus Circus and the Excalibur)
+Wynn Resorts, Limited WIKI/WYNN (Wynn Las Vegas and Encore)
+
+
+- Cruise Ships
+
+Carnival Corporation WIKI/CCL (Brands include Holland America Line, Princess Cruises and Seabourn)
+Norwegian Cruise Line Holdings Ltd. WIKI/NCLH  (Brands include Norwegian Cruise Line, Oceania Cruises and Regent Seven Sea Cruises)
+Royal Caribbean Cruises Ltd. WIKI/RCL (Brands include Royal Caribbean International and Celebrity Cruises)
+Hotels and Resorts  
+Hilton Worldwide Holdings Inc. WIKI/HLT (Over 4,000 hotels and resorts in nearly 100 different countries)
+Marriott International WIKI/MAR (Brands include Marriott Hotels, Courtyard by Marriott and The Ritz-Carlton)
+
+
+- Motion Picture and Film Production 
+
+Comcast Corporation WIKI/CMCSA (Cable – XFINITY; NBC Universal – NBC, Telemundo, Universal Pictures, Universal Parks, Television Production and Television Stations)
+Twenty-First Century Fox, Inc. WIKI/FOX (Twentieth Century Fox Film, Twentieth Century Fox Television, FOX, Fox News Channel, Fox Sports, National Geographic Channels and STAR)
+Viacom Inc. WIKI/VIA (Paramount Pictures, CMT, Comedy Central, MTV, Nickelodeon, Nick at Nite, SPIKE, TV Land and VH1)
+Walt Disney Company WIKI/DIS (Disney, ABC, ESPN, Pixar, Marvel, Lucasfilm)
+
+
+- Video and Mobile Games
+
+Activision Blizzard, Inc. WIKI/ATVI (Call of Duty, Destiny, Diablo, Guitar Hero, Hearthstone, Skylanders, StarCraft and World of Warcraft)
+Electronic Arts Inc. WIKI/EA (Dragon Age, EA Sports (multiple brands), Madden, Plants vs. Zombies and The Sims)
+
+
+-- Environmental Services
+
+- Pollution Control
+
+Ecolab Inc. WIKI/ECL (Water, hygiene and energy products)
+
+
+- Waste Management
+
+Republic Services, Inc. WIKI/RSG (Solid waste, recycling)
+Waste Connections, Inc. WIKI/WCN (Solid waste, recycling)
+Waste Management, Inc. WIKI/WM (Solid waste, recycling)
+
+
+-- Equipment, Part and Component
+
+- Diversified Manufacturing
+
+3M Company WIKI/MMM  (Consumer Products, electronic devices, telecommunication networks, health care products, industrial products, safety and security products)
+Corning Incorporated WIKI/GLW (Glass substrates used in LCD displays; ceramic substrates and filter products; optical fiber and cable; scientific laboratory products; specialty materials)
+Danaher Corporation WIKI/DHR (Environmental, dental, diagnostics, life sciences, industrial technologies, test & measurement)
+Deere & Company WIKI/DE (Agricultural, construction, forestry and turf equipment)
+Dover Corporation WIKI/DOV  (Oil & gas equipment, engineered systems, fluids, refrigeration & food equipment)
+General Electric Company WIKI/GE (Appliances and lighting, aviation products, energy management, financial services, healthcare products, oil & gas equipment, power generation, railroad equipment, water products)
+Honeywell International Inc. WIKI/HON  (Aerospace products and services: commercial and defense; turbochargers; performance materials; sensing and security technologies)
+Illinois Tool Works Inc. WIKI/ITW (Automotive components and fasteners, beverage packaging equipment, construction fastening systems and truss products, food equipment, polymers & fluids, test and measurement equipment, welding equipment)
+Ingersoll-Rand Plc. WIKI/IR (Diversified Industrial Manufacturer: brands include Club Car, Ingersoll Rand, Thermo King and Trane)
+Johnson Controls, Inc. WIKI/JCI  (Facilities management, HVAC, industrial refrigeration products, automotive seating components and systems, lead-acid automotive batteries, batteries for hybrid and electric vehicles)
+Pentair Plc. WIKI/PNR (United Kingdom: water, thermal management and equipment, filtration products)
+Roper Technologies, Inc. WIKI/ROP (Medical and scientific imaging products and software, RF technology, water products: flow measurement and metering equipment, pumps, water meters)
+
+
+- Auto and Truck Parts
+
+Delphi Automotive Plc. WIKI/DLPH (United Kingdom)
+Genuine Parts Company WIKI/GPC (Parts distributor)
+Magna International, Inc. WIKI/MGA (Canada: automotive products, systems and components)
+Commercial Vehicle Manufacturers   
+CNH Industrial N.V. WIKI/CNHI (Diversified manufacturer: Commercial vehicles: buses, firefighting vehicles, specialty vehicles)
+PACCAR Inc. WIKI/PCAR (Trucks: brands include Kenworth, Peterbilt and DAF)
+
+
+- Construction Machinery and Equipment
+
+Caterpillar, Inc. WIKI/CAT (Construction, Mining, Engines)
+
+
+- Distributor
+
+W.W. Grainger, Inc. WIKI/GWW (Distributor of maintenance, repair and operating supplies)
+Electrical Equipment  
+ABB Ltd. WIKI/ABB (Switzerland: power products, power systems, automation products, motion products, low voltage products)
+AMETEK, Inc. WIKI/AME (Electronic instruments and electro-mechanical devices)
+Amphenol Corporation WIKI/APH (Antennas, Connectors, coaxial and high-speed specialty cable, interconnect systems, sensors and sensor- based products)
+Eaton Corporation, Plc. WIKI/ETN (Ireland: electrical equipment, systems and services; pumps, motors, valves and hydraulic power units; industrial filtration, aerospace products, automotive products)
+Emerson Electric Company WIKI/EMR (Process management, industrial automation, network power, climate technologies, tools, storage products, electrical appliances)
+Rockwell Automation, Inc. WIKI/ROK (Automation power, control and information products)
+
+
+- Electronic Components
+
+TE Connectivity Ltd. WIKI/TEL (Connectivity and sensor products)
+
+
+- Engines, Generators and Motors
+
+Cummins Inc. WIKI/CMI (Diesel and natural gas engines, power generation systems, related parts and services, distribution)
+
+
+- Scientific and Technical Instruments
+
+Fortive Corporation WIKI/FTV (Industrial technologies and professional instrumentation)
+Mettler-Toledo International, Inc. WIKI/MTD (Precision instruments used in laboratories and industrial and food retailing markets)
+Thermo Fisher Scientific Inc. WIKI/TMO (Analytical instruments, lab equipment and specialty diagnostics)
+Waters Corporation WIKI/WAT (Analytical technologies including liquid chromatography, mass spectrometry and thermal analysis)
+
+
+- Tools
+
+Stanley Black & Decker, Inc. WIKI/SWK (Hand tools, power tools and tool storage products)
+
+
+- Valves and Flow Control Products
+
+Parker-Hannifin Corporation WIKI/PH (Valves, water system products, heat management products)
+
+
+-- Financial
+
+- Alternative Asset Management Companies
+
+The Blackstone Group L.P. WIKI/BX (Credit-oriented funds, closed end mutual funds, customized hedge fund funds, private equity funds and real estate funds)
+
+
+- Asset Management
+
+Ameriprise Financial Services, Inc. WIKI/AMP)
+Bank of New York Mellon Corporation WIKI/BK)
+BlackRock, Inc. WIKI/BLK)
+Franklin Resources, Inc. WIKI/BEN)
+Goldman Sachs Group, Inc. WIKI/GS)
+Invesco Plc. WIKI/IVZ)
+Morgan Stanley WIKI/MS)
+Nomura Holdings Inc WIKI/NMR)
+T Rowe Price Group, Inc. WIKI/TROW)
+The Charles Schwab Corporation WIKI/SCHW)
+
+
+- Brokers
+
+Interactive Brokers Group, Inc. WIKI/IBKR (Automated electronic broker)
+Raymond James Financial, Inc. WIKI/RJF (Broker-dealer; investment banking)
+TD Ameritrade Holding Corporation WIKI/AMTD) Brokerage and financial services)
+
+
+- Credit Cards
+
+American Express Company WIKI/AXP)
+Discover Financial Services WIKI/DFS)
+FleetCor Technologies, Inc. WIKI/FLT (Fuel cards, food cards, corporate discount lodging cards)
+Mastercard Incorporated WIKI/MA)
+Synchrony Financial WIKI/SYF (Private label credit cards)
+Visa Inc. WIKI/V)
+
+
+- Exchanges
+
+CME Group Inc. WIKI/CME (CBOT, CME, COMEX and NYMEX)
+Intercontinental Exchange Inc. WIKI/ICE (New York Stock Exchange, Ice Futures Exchange)
+The NASDAQ OMX Group, Inc. WIKI/NDAQ (NASDAQ and numerous NASDAQ branded exchanges)
+
+
+- Financial News, Research and Data
+
+IHS Markit Ltd. WIKI/INFO (United Kingdom; indices, data and analytical tools)
+Moody’s Corporation WIKI/MCO (Analysis, data, credit ratings, research and tools)
+S&P Global Inc. WIKI/SPGI (Leading benchmarks & ratings, analytics, data and research)
+Thomson Reuters Corp WIKI/TRI (Financial, legal, tax & accounting and intellectual property &science news, data, software and tools)
+
+
+- Retirement Services
+
+Athene Holding Ltd. WIKI/ATH (IPO December 9, 2016: retirement services company)
+
+
+-- Food and Beverage
+
+- Agricultural Companies
+
+Bunge Limited WIKI/BG (Diversified activities: bioenergy, ingredients, fertilizer, sugar and agribusiness network facilities)
+
+
+- Brewing Companies and Distributors
+
+Ambev S.A. WIKI/ABEV (Brazil: brands include Skol, Brahma, Antarctica, Quilmes)
+Anheuser-Busch Inbev S.A. WIKI/BUD (Belgium: Beck’s, Budweiser and Corona)
+Constellation Brands Inc. WIKI/STZ (Beer, Wine and Spirits)
+Molson Coors Brewing Company WIKI/TAP (Coors Light, Molson Canadian and Miller Lite)
+
+
+- Coffee Companies
+
+Starbucks Corporation WIKI/SBUX (Retail giant: over 20,000 locations; coffee, tea and ready-to-drink consumer products)
+Diversified Food Companies
+Campbell Soup Company WIKI/CPB (Soups, meals, snacks and beverages: brands include Arnott’s, Campbell’s, Pepperidge Farm and V8)
+ConAgra Foods, Inc. WIKI/CAG (Packaged foods: brands include Banquet, Chef Boyardee, Healthy Choice, Hunt’s, Marie Callender’s, Orville Redenbacher’s, PAM, Peter Pan, Slim Jim and Snack Pack)
+General Mills, Inc. WIKI/GIS (baking mixes, biscuits, cereal, frozen breakfast, snacks, and yogurt: Brands include Betty Crocker, Chex Mix, Cheerios, Gold Medal, Green Giant, Häagen-Dazs, Hamburger Helper, Lucky Charms, Nature Valley, Old El Paso, Pillsbury, Wheaties and Yoplait)
+J M Smucker Company WIKI/SJM (Coffee, baking products, spreads, toppings: brands include Crisco, Folgers, Hungry Jack, Jif, Pillsbury and Smucker’s)
+Kellogg Company WIKI/K (Cereal and snack brands include Cheez-It, Corn Flakes, Eggo, Frosted Flakes, Keebler, Kellogg’s, Mini-Wheats, Pop-Tarts, Pringles and Rice Krispies)
+The Kraft Heinz Company WIKI/KHC (Examples of brands include Capri Sun, Heinz, Jell-O, Kool-Aid, Kraft, Maxwell House, Oscar Mayer, Ore-Ida, Philadelphia, Planters and Velveeta)
+Unilever NV WIKI/UN (Netherlands – Axe, Blue Band, Dove, Hellmann’s, Knorr, Lifebuoy, Lipton, Pureit, Suave and Sunlight)
+Unilever Plc. WIKI/UL (United Kingdom)
+
+
+- Donuts and Candy
+
+Hershey Company WIKI/HSY (Chocolate, gum, mints, snacks and sweets; brands include Hershey’s, Hershey’s Kisses, Ice Breakers, Jolly Rancher and Reese’s)
+
+
+- Fast Food
+
+McDonald’s Corporation WIKI/MCD (Over 36,000 Locations)
+Restaurant Brands International Inc. WIKI/QSR (Brands include Tim Hortons and Burger King)
+Yum! Brands, Inc. WIKI/YUM (Brands include KFC, Pizza Hut and Taco Bell)
+Food Distribution  
+Sysco Corporation WIKI/SYY (Distributors of food products to restaurants, healthcare, educational facilities, lodging establishments; equipment and supplies for the foodservice and hospitality industries)
+
+
+- Grocery Stores
+
+Kroger Company WIKI/KR (Over 30 supermarket brands; Fred Meyer, Food 4 Less, Foods Co, jewelry stores and convenience stores) 
+
+
+- Ingredients
+
+Archer-Daniels-Midland Company WIKI/ADM (Food ingredients, animal feeds and biofuels)
+McCormick & Company, Incorporated WIKI/MKC (Flavor based products)
+
+
+- Meat Producers and Packaged Meat Products
+
+Hormel Foods Corporation WIKI/HRL (Food and meat products: brands include Dinty Moore, Farmer John, Hormel, Jennie-O, Skippy Peanut Butter and SPAM)
+Tyson Foods, Inc. WIKI/TSN (Producer of beef, chicken and pork; prepared food products; brands include Ball Park, Chairman’s Reserve, Don Julio, Hillshire Farm, Holly Farms Chicken, Jimmy Dean, Sara Lee and Tyson)
+
+
+- Restaurants
+
+Chipotle Mexican Grill, Inc. WIKI/CMG)
+
+
+- Snack Foods  
+
+Mondelez International, Inc. WIKI/MDLZ (Confectionary, food and beverage products: brands include Oreo, Chips Ahoy! (cookies); Triscuit, Club social (crackers); Milka, Toblerone, Cadbury (chocolate) and Trident, Dentyne, Chiclets, Halls, Stride (gum))
+
+
+- Soft Drinks  
+
+Coca Cola Femsa S.A.B. de C.V. WIKI/KOF (Coca-Cola distribution in Mexico and South and Central America)
+Coca-Cola Company WIKI/KO (Brands include: Coca-Cola, Del Valle, Fanta, Georgia, Minute Maid, Powerade, Simply, Sprite, vitaminwater)
+Coca-Cola European Partners plc WIKI/CCE (Independent Coca-Cola bottler and distributor)
+Dr. Pepper Snapple Group, Inc. WIKI/DPS (Carbonated soft drinks, juices, teas, waters: brands include 7UP, A&W, Canada Dry, Crush, Dr Pepper, Hawaiian Punch, Schweppes, Snapple, Squirt and Sunkist)
+Fomento Economico Mexicano S.A.B. de C.V. WIKI/FMX (Controls Coco-Cola bottler FEMSA and owns over 13,000 small-format stores)
+Monster Beverage Corporation WIKI/MNST (Brands include Monster Energy, Peace Ice Teas and Hansen’s)
+Pepsico, Inc. WIKI/PEP (Food and Beverage: Brands include Frito-Lay, Gatorade, Pepsi, Quaker and Tropicana)
+
+
+- Wine and Spirits  
+
+Brown Forman Corporation WIKI/BF_B (Jack Daniel’s Tennessee Whiskey, Southern Comfort)
+Diageo Plc. WIKI/DEO  (United Kingdom: Johnnie Walker, Crown Royal, Captain Morgan, Baileys and Guinness)
+
+
+-- Healthcare
+
+- Diagnostics
+
+Danaher Corporation WIKI/DHR (Diversified Conglomerate: Environmental, dental, diagnostics, life sciences, industrial technologies, test & measurement)
+Quest Diagnostics Inc. WIKI/DGX (Diagnostic testing services, diagnostic products, clinical trials testing, healthcare IT and wellness and risk management services)
+
+
+- Drug Stores  
+
+CVS Health Corporation WIKI/CVS (Nationwide drugstore chain, pharmacy benefit management services; retail medical clinics)
+Walgreens Boots Alliance, Inc. WIKI/WBA (Retail drugstores throughout the United States and numerous other countries; wholesale and distribution)
+
+
+- Healthcare Distributors
+
+AmerisourceBergen Corporation WIKI/ABC (Pharmaceutical sourcing and distribution)
+Cardinal Health, Inc. WIKI/CAH (Drug and healthcare product distribution, consumer healthcare products, direct-to-home medical supplies distributor)
+Henry Schein, Inc. WIKI/HSIC (Health care products and services for animal health, dental and medical practitioner markets)
+McKesson Corporation WIKI/MCK (Pharmaceutical distributor; software; automation technology; business services and consulting; Health Mart retail pharmacy franchisees)
+
+
+- Healthcare Facilities
+
+DaVita Inc. WIKI/DVA (Kidney dialysis services, operator of medical groups and physician networks)
+Fresenius Medical Care Corporation WIKI/FMS (Germany: Dialysis clinics, dialysis products and services: hemodialysis machines, dialyzers, disposable products)
+HCA Holdings, Inc. WIKI/HCA (Hospitals and surgery centers)
+HCP, Inc. WIKI/HCP (REIT: Hospitals, life science, medical office, post-acute/skilled nursing and senior housing)
+Laboratory Corporation of America Holdings WIKI/LH (Independent clinical laboratory)
+Universal Health Services, Inc. WIKI/UHS (Acute care hospitals, behavioral health facilities, ambulatory centers)
+Ventas, Inc. WIKI/VTR (REIT: Seniors housing, skilled nursing facilities, medical office buildings and other healthcare properties)
+Welltower Inc. WIKI/HCN (REIT: Seniors housing and health care real estate)
+
+
+- Healthcare Services
+
+IQVIA Holdings, Inc. WIKI/IQV (Healthcare services: biopharmaceutical development services, commercial outsourcing services; commercial pharmaceutical sales and service organizations, consulting, health information analytics and technology consulting)
+
+
+- Medical Devices, Equipment and Supplies
+
+Agilent Technologies, Inc. WIKI/A (Provides equipment, services, consumables and software to laboratories)
+Baxter International Inc. WIKI/BAX (Renal and hospital products)
+Becton, Dickinson and Company WIKI/BDX (Injection and infusion-based drug delivery devices; diagnostic and research tools; products for the collection and transport of diagnostics specimens; areas of focus include anesthesiology, respiratory care, cellular research, diagnosis of infectious diseases and cancers, management of diabetes)
+Boston Scientific Corporation WIKI/BSX (Products used to diagnose or treat: areas of focus include digestive, heart, pulmonary, urological, vascular, women’s health)
+Edwards Lifesciences Corporation WIKI/EW (Heart valves and hemodynamic monitoring)
+Grifols, S.A. WIKI/GRFS (Spain: Bioscience (treatment of medical conditions using blood or blood components), diagnostics, hospital (intravenous therapy products, clinical nutrition products, sterile products and medical devices), plasma derivatives)
+Illumina, Inc. WIKI/ILMN (Genetic analysis tools, consumables and integrated systems)
+Intuitive Surgical, Inc. WIKI/ISRG (Robotic-assisted minimally invasive surgery technologies)
+Koninklijke Philips N.V. WIKI/PHG (Netherlands, diversified technology: healthcare (cardiac care, acute care and home healthcare); lighting (lamps, automotive lighting); consumer goods (electric shavers, flat-TVs, etc.))
+Medtronic, Inc. WIKI/MDT (Cardiac, diabetes, general surgical products, nervous system, spinal and musculoskeletal, surgical technologies, vascular)
+Smith & Nephew SNATS, Inc. WIKI/SNN (Advanced wound management, knee and hip implant systems, orthopaedic reconstruction, sports medicine, trauma)
+St. Jude Medical, Inc. WIKI/STJ  (Heart failure, arrhythmias, vascular disease, chronic pain, neurological diseases)
+Stryker Corporation WIKI/SYK (Medical and surgical tools and equipment; reconstructive: hips, knees, foot, ankle, trauma, sports medicine; neurotechnology; spine)
+Zimmer Biomet, Inc. WIKI/ZMH (Dental implants; orthopaedic reconstructive products; spine products; sports medicine and trauma products; surgical products)
+
+
+- Medical Software
+
+Cerner Corporation WIKI/CERN (Healthcare information technology: cloud-based platform; clinical, financial and management information systems)
+
+
+- Pharmacy Benefit Management
+
+Express Scripts Holding Company WIKI/ESRX (Pharmacy benefit management company: formulary management programs, retail drug card programs, home delivery services) 
+
+
+-- Insurance
+
+- Health Insurance
+
+Aetna Inc. WIKI/AET (Behavioral health, dental, disability, group life, medical and pharmacy)
+Aflac Incorporated WIKI/AFL (Supplemental Health and Life)
+Anthem, Inc. WIKI/ANTM (Health care plans)
+Cigna Corporation WIKI/CI (Behavioral, dental, group disability, group life and pharmacy)
+Humana Inc. WIKI/HUM (Group health, Medicare plans and supplemental insurance)
+UnitedHealth Group Incorporated WIKI/UNH (Health benefits and services)
+Unum Group WIKI/UNM (Disability, life, accident and critical illness coverage)
+
+
+- Health and Life
+
+Centene Corporation WIKI/CNC (Governmental programs for uninsured and under-insured)
+Manulife Financial Corp. WIKI/MFC (Canada: Manulife and John Hancock Brands; annuities, asset management services, individual life insurance, group life insurance, mutual funds, pension products and reinsurance products)
+Principal Financial Group Inc. WIKI/PFG (Group disability, life, vision and dental insurance; retirement products)
+Sun Life Financial Inc. WIKI/SLF (Canada: Insurance products (dental, health, life, medical, disability), annuities and investing and retirement services)
+
+
+
+- Insurance Brokers
+
+Aon Plc. WIKI/AON (United Kingdom: insurance and reinsurance brokerage services)
+Marsh & McLennan Companies, Inc. WIKI/MMC (Diversified risk, insurance and professional services firm)
+Willis Towers Watson plc WIKI/WLTW (United Kingdom: insurance and reinsurance broker)
+
+
+- Life Insurance
+
+Aegon NV WIKI/AEG (Netherlands: life insurance, pensions and asset management services)
+China Life Insurance Company Limited WIKI/LFC (China: life insurance and asset management services)
+Lincoln National Corporation WIKI/LNC (Annuities, dental insurance, group protection, life insurance and retirement plan services)
+MetLife, Inc. WIKI/MET (Annuities, employee benefits, life insurance and asset management services)
+Prudential Financial, Inc. WIKI/PRU (Life insurance, retirement products and asset management services)
+Prudential Plc WIKI/PUK (United Kingdom)
+
+
+- Property and Casualty Insurance
+
+Allstate Corporation WIKI/ALL (Auto, home, life and retirement products)
+American International Group, Inc. WIKI/AIG (Property casualty insurance, life insurance, mortgage insurance and a range of retirement products)
+Arch Capital Group Ltd. WIKI/ACGL (P&C, Mortgage, Reinsurance)
+Chubb Limited WIKI/CB (Insurance: Property and casualty products for both commercial entities and individuals)
+Cincinnati Financial Corporation WIKI/CINF (Property and casualty insurance covering businesses, homes and autos)
+CNA Financial Corporation WIKI/CNA (Commercial insurance products)
+Hartford Financial Services Group, Inc. WIKI/HIG (Property and casualty insurance, group benefits and mutual funds)
+Loews Corporation WIKI/L (Diversified company: Commercial property and casualty insurance, natural gas pipelines, offshore drilling services and luxury hotels)
+Markel Corporation WIKI/MKL (Diverse financial holding company: principal business markets and underwrites specialty insurance products)
+Progressive Corporation WIKI/PGR (One of the largest auto insurance companies in the United States)
+The Travelers Companies, Inc. WIKI/TRV (Auto, home and business insurance products)
+XL Group plc WIKI/XL (Ireland: property and casualty and specialty products)
+
+
+- Title Insurance
+
+Fidelity National Financial, Inc. WIKI/FNF (Title insurance; services to the real estate and mortgage industries)
+
+
+-- Internet
+
+- Content
+
+Akamai Technologies, Inc. WIKI/AKAM (Content Delivery Network (CDN) services)
+
+
+- Ecommerce Companies
+
+Alibaba Group Holding Ltd. WIKI/BABA (China: online marketplaces for both retail and wholesale trade)
+Amazon.com, Inc. WIKI/AMZN (Ecommerce business; Kindle, Fire TV and the Fire Phone; digital media properties)
+Ctrip.com International, Ltd. WIKI/CTRP (China: travel service provider)
+eBay Inc. WIKI/EBAY (Online auction)
+Expedia, Inc. WIKI/EXPE (Expedia.com, Hotels.com, Hotwire and Travelocity)
+JD.com, Inc. WIKI/JD (China: one of the largest online direct sales companies in China)
+The Priceline Group WIKI/PCLN (Online travel service company)
+
+
+- Payments and Transactions
+
+Paypal Holdings, Inc. WIKI/PYPL (Digital and mobile payment platform)
+
+
+- Search Engines
+
+Alphabet Inc. WIKI/GOOG (Search engine, YouTube, Android, Chrome, ad technology platform, Google Play, Gmail)
+Baidu, Inc. WIKI/BIDU (China: internet search provider)
+
+
+- Social Media
+
+Facebook, Inc. WIKI/FB (Facebook, Instagram, Messenger, WhatsApp)
+Twitter, Inc. WIKI/TWTR (Information sharing and distribution platform products)
+Weibo Corporation WIKI/WB (China: social media platform)
+
+
+- Television Networks
+
+Netflix, Inc. WIKI/NFLX
+
+
+- Video and Mobile Games
+
+NetEase, Inc. WIKI/NTES (China: online games (partnership with Blizzard Entertainment), e-mail and e-commerce services, advertising services, websites)
+
+
+-- Media
+
+- Cable and Satellite
+
+Altice USA, Inc. WIKI/ATUS (IPO June 22, 2017; cable and broadband provider)
+Charter Communications, Inc. WIKI/CHTR (Cable operator)
+DISH Network Corporation WIKI/DISH (Satellite TV)
+Liberty Broadband Corporation WIKI/LBRDA (Interest in Charter Communications)
+Liberty Global Plc. WIKI/LBTYA (Cable Operator: United Kingdom)
+
+
+- Diversified Media Companies
+
+CBS Corporation WIKI/CBS (CBS Television Network, The CW, CBS Television Studios, Showtime Networks, Simon & Schuster and CBS Television Stations and CBS Radio)
+Comcast Corporation WIKI/CMCSA (Cable – XFINITY; NBC Universal – NBC, Telemundo, Universal Pictures, Universal Parks, Television Production and Television Stations)
+Grupo Televisa S.A. WIKI/TV (Mexico – TV radio, Live Entertainment, Film Production and Magazines)
+Time Warner Inc. WIKI/TWX (Home Box Office (HBO), Cinemax, Flixster, TBS, TNT, CNN, multiple websites)
+Twenty-First Century Fox, Inc. WIKI/FOX (Twentieth Century Fox Film, Twentieth Century Fox Television, FOX, Fox News Channel, Fox Sports, National Geographic Channels and STAR)
+Viacom Inc. WIKI/VIAB (Paramount Pictures, CMT, Comedy Central, MTV, Nickelodeon, Nick at Nite, SPIKE, TV Land and VH1)
+Walt Disney Company WIKI/DIS (Disney, ABC, ESPN, Pixar, Marvel, Lucasfilm)
+
+
+- Radio Companies
+
+Liberty Media Corporation SiriusXM Group WIKI/LSXMK (Ownership interest in SiriusXM)
+Sirius XM Holdings Inc. WIKI/SIRI (Satellite radio)
+
+
+- TV and Cable Networks
+
+Discovery Communications, Inc. WIKI/DISCA (Discovery Channel, TLC and Animal Planet)
+
+
+-- Medical Device and Equipment
+
+- Medical Devices: Large-Cap Stocks
+
+Agilent Technologies, Inc. WIKI/A (Provides equipment, services, consumables and software to laboratories)
+Baxter International Inc. WIKI/BAX (Renal and hospital products)
+Becton, Dickinson and Company WIKI/BDX (Injection and infusion-based drug delivery devices; diagnostic and research tools; products for the collection and transport of diagnostics specimens; areas of focus include anesthesiology, respiratory care, cellular research, diagnosis of infectious diseases and cancers, management of diabetes)
+Boston Scientific Corporation WIKI/BSX (Products used to diagnose or treat: areas of focus include digestive, heart, pulmonary, urological, vascular, women’s health)
+Dentsply Sirona Inc. WIKI/XRAY  (Dental products, consumable healthcare products)
+Edwards Lifesciences Corporation WIKI/EW (Heart valves and hemodynamic monitoring)
+Hologic, Inc. WIKI/HOLX (Diagnostic products, medical imaging systems and surgical products; primary business units focus on breast health, diagnostics, GYN surgical and skeletal health)
+Illumina, Inc. WIKI/ILMN (Genetic analysis tools, consumables and integrated systems)
+Intuitive Surgical, Inc. WIKI/ISRG (Robotic-assisted minimally invasive surgery technologies)
+Medtronic, Inc. WIKI/MDT (Cardiac, diabetes, general surgical products, nervous system, spinal and musculoskeletal, surgical technologies, vascular)
+Smith & Nephew SNATS, Inc. WIKI/SNN (Advanced wound management, knee and hip implant systems, orthopaedic reconstruction, sports medicine, trauma)
+Stryker Corporation WIKI/SYK (Medical and surgical tools and equipment; reconstructive: hips, knees, foot, ankle, trauma, sports medicine; neurotechnology; spine)
+Zimmer Biomet, Inc. WIKI/ZBH (Dental implants; orthopaedic reconstructive products; spine products; sports medicine and trauma products; surgical products)
+
+
+-- Mining
+
+- Diversified Mining
+
+BHP Billiton Plc. WIKI/BBL (United Kingdom – Coal, Copper, Iron Ore, Nickle and Uranium)
+BHP Billiton Ltd. WIKI/BHP (Australia – Coal, Copper, Iron Ore, Nickle and Uranium)
+Freeport-McMoran, Inc. WIKI/FCX (Freeport-McMoran is a natural resource company and a leading producer of copper and molybdenum.  Highlights for the company include: one of the largest copper producers in the world; one of the largest molybdenum producers in the world; significant producer of gold; significant producer of oil & natural gas. The company has assets located around the world)
+Rio Tinto Plc. WIKI/RIO (United Kingdom – Aluminum, Copper, Diamonds, Gold, Titanium, Iron Ore, Thermal and Metallurgical Coal and Uranium)
+Southern Copper Corporation WIKI/SCCO (Copper, coal, lead, molybdenum, silver and zinc)
+Teck Resources Ltd. WIKI/TECK (Canada – Copper, Metallurgic Coal and Zinc)
+VALE S.A. WIKI/VALE  (Brazil – Iron Ore, Nickel, Metallurgical and Thermal Coal, Copper and Precious Metals)
+
+- Gold Mining Companies: Large-Cap Stocks
+
+Agnico Eagle Mines Limited WIKI/AEM (Agnico Eagle is a gold mining company headquartered in Canada. They have numerous mining and exploration properties in Canada, Finland, Mexico and the United States. The Meadowbank open-pit mine located in Canada is the company’s largest gold producer)
+Barrick Gold Corporation WIKI/ABX (Barrick Gold is a gold mining company headquartered in Toronto Canada. The company is one of the largest gold companies with operations in numerous parts of the world)
+Franco-Nevada Corporation WIKI/FNV (Franco-Nevada Corporation is a gold-focused royalty and streaming company headquarter in Toronto, Canada. The company does not engage is traditional mining operations such as operating and developing mines. The company focuses on growing a portfolio of royalties and streams)
+Goldcorp Inc. WIKI/GG (Goldcorp Inc. is a gold mining company headquartered in Canada. They have a diverse portfolio of mining operations and projects spread throughout Canada, Mexico and Central and South America)
+Newmont Mining Corporation WIKI/NEM (Newmont Mining Corporation is a gold mining company headquartered in Colorado. Newmont is one of the largest gold producers with operations in numerous parts of the world. The company has mining operations in Australia, Ghana, Indonesia, New Zealand, Peru and the United States)
+
+
+- Steel
+
+ArcelorMittal WIKI/MT (Luxembourg – Integrated steel producer)
+Nucor Corporation WIKI/NUE (Steel producer and scrap metal recycling facilities)
+POSCO WIKI/PKX (South Korea – Integrated steel company)
+Tenaris S.A. WIKI/TS (Luxembourg: products include tubes, casing and line, mechanical and structural pipes)
+
+
+-- Oil and Gas
+
+- Downstream
+
+Andeavor WIKI/ANDV (Formerly Tesoro Corporation: refineries, convenience stores, wholesales, commercial products)
+Marathon Petroleum Corporation WIKI/MPC (Refineries, pipelines, convenience stores)
+Phillips 66 WIKI/PSX (Refineries, chemical manufacturing, marketing, midstream assets)
+Ultrapar Participacoes S.A. WIKI/UGP (Brazil: specialized distribution and retail; specialty chemicals; storage for liquid bulk)
+Valero Energy Corporation WIKI/VLO (Refineries, convenience stores, ethanol plants)
+Equipment and Services 
+Baker Hughes, a GE Company WIKI/BHGE (Reservoir navigation and development services, real-time drilling and evaluation services, reservoir consulting)
+Halliburton Company WIKI/HAL (Operating segments include Completion and Production and Drilling and Evaluation)
+National Oilwell Varco, Inc. WIKI/NOV (Designs and manufactures equipment and components used by companies in the oil & gas industry)
+Schlumberger WIKI/SLB (Technology, integrated project management and information solutions used by companies in the oil and gas exploration and production industry)
+
+
+- Exploration and Production 
+
+Anadarko Petroleum Corporation WIKI/APC (Onshore and offshore operations)
+Apache Corporation WIKI/APA (Onshore and Offshore: International and domestic operations)
+Cabot Oil & Gas Corporation WIKI/COG (Pennsylvania: Natural Gas and Texas: Oil)
+Canadian Natural Resources Limited WIKI/CNQ (Canada: Activities in North America, the North Sea and Offshore Africa)
+Cimarex Energy Co. WIKI/XEC (New Mexico, Oklahoma and Texas)
+CNOOC Limited WIKI/CEO (China’s Largest Offshore Oil & Gas Producer)
+Concho Resources Inc. WIKI/CXO (New Mexico and Texas)
+ConocoPhillips WIKI/COP (Activities located in approximately 27 countries)
+Continental Resources, Inc. WIKI/CLR (Montana, North Dakota and Oklahoma)
+Devon Energy Corporation WIKI/DVN (Activities Extend from Western Canada to the Gulf Coast Region)
+Encana Corporation WIKI/ECA (Canada: Activities onshore throughout North America)
+EOG Resources, Inc. WIKI/EOG (Canada, China, Trinidad, the United Kingdom and the United States)
+EQT Corporation WIKI/EQT (Appalachian Basin)
+Hess Corporation WIKI/HES (Asia Pacific, Gulf of Mexico, North Sea, United States, West Africa)
+Marathon Oil Corporation WIKI/MRO (Africa, Europe, the Middle East and North America)
+Noble Energy Inc. WIKI/NBL (Onshore and Offshore – International and Domestic)
+Occidental Petroleum Corporation WIKI/OXY (Onshore and Offshore – International and Domestic)
+Pioneer Natural Resources Company WIKI/PXD (New Mexico and Texas)
+
+
+- Integrated Oil & Gas
+
+BP Plc. WIKI/BP (United Kingdom: Integrated Oil & Gas)
+Cenovus Energy Inc. WIKI/CVE (Canada: Activities in Alberta and Saskatchewan)
+Chevron Corporation WIKI/CVX (Activities are located on six different continents)
+China Petroleum & Chemical Corporation WIKI/SNP (China: Integrated Oil & Gas)
+Ecopetrol S.A. WIKI/EC (Columbia: Integrated oil & gas company; activities in Brazil, Peru and the United States Gulf Coast)
+ENI S.P.A. WIKI/E (Italy: Integrated Oil & Gas)
+Exxon Mobil Corporation WIKI/XOM (Activities are located on six different continents)
+Imperial Oil Limited WIKI/IMO (Canada: Integrated Oil & Gas)
+Petroleo Brasileiro S.A. WIKI/PBR (Brazil: Integrated oil & gas company)
+PetroChina Company Limited WIKI/PTR (China: Integrated oil & gas company; largest oil producer in China)
+Royal Dutch Shell Plc. WIKI/RDS.A (Netherlands: Integrated Oil & Gas)
+Sasol Ltd. WIKI/SSL (South Africa: Integrated Oil & Gas)
+Statoil WIKI/STO (Norway: Integrated Oil & Gas)
+Suncor Energy Inc. WIKI/SU (Canada: Integrated Oil & Gas)
+TOTAL S.A. WIKI/TOT (France: Integrated Oil & Gas)
+
+
+- Midstream
+
+Enbridge Inc. WIKI/ENB)
+Enbridge Energy, L.P. WIKI/EEP (Pipelines, processing facilities, NGL fractionation facilities, storage terminals)
+Energy Transfer Equity, L.P. WIKI/ETE)
+Energy Transfer Partners WIKI/ETP (Pipelines, storage facilities, NGL fractionation facilities, convenience stores)
+Enterprise Products Partners L.P. WIKI/EPD (Pipelines, processing plants, NG L and propylene fractionators, storage facilities)
+Kinder Morgan, Inc. WIKI/KMI (One of the largest midstream companies in the world)
+Magellan Midstream Partners L.P. WIKI/MMP (Pipelines, terminals, fractionation facilities, storage facilities)
+MPLX L.P. WIKI/MPLX (Crude oil pipelines and storage assets)
+ONEOK, Inc. WIKI/OKE (Natural gas gathering, processing, storage and transportation)
+Pembina Pipeline Corp. WIKI/PBA (Canada)
+Plains All American Pipeline, L.P. WIKI/PAA (Pipelines, fractionation plants, natural gas processing plants, rail terminals, storage facilities)
+Spectra Energy Partners, LP WIKI/SEP (Pipelines and storage facilities)
+Targa Resources Corp WIKI/TRGP (Ownership interest in Targa Resource Partners)
+TransCanada Corporation WIKI/TRP (Canada: Pipelines, storage facilities and power generation)
+Williams Companies, Inc.  WIKI/WMB (Ownership interest in Williams Partners)
+Williams Partners L.P. WIKI/WPZ (Natural gas midstream assets and NGL services)
+
+
+-- Pharmaceutical
+
+- Pharmaceuticals: Large-Cap Stocks
+
+Abbott Laboratories WIKI/ABT (Nutritional products; medical devices, diagnostics, branded generic pharmaceuticals: gastroenterology products, women’s health products, cardiovascular and metabolic products, pain and central nervous system products, respiratory drugs and vaccines, vascular products)
+Allergan, Inc. WIKI/AGN (Branded pharmaceuticals: dermatology and aesthetics, central nervous system, eye care, women’s health and urology, gastroenterology, anti-infectives)
+AmerisourceBergen Corporation WIKI/ABC (Pharmaceutical sourcing and distribution)
+Cardinal Health, Inc. WIKI/CAH (Drug and healthcare product distribution, consumer healthcare products, direct-to-home medical supplies distributor)
+Eli Lilly and Company WIKI/LLY (Animal health, cardiovascular, critical care, diabetes, men’s health, musculoskeletal, neuroscience, oncology)
+GlaxoSmithKline Plc. WIKI/GSK (United Kingdom: prescription medicines, vaccines and consumer healthcare products)
+Johnson & Johnson WIKI/JNJ (Consumer health products: baby care, skin care, oral care, wound care and women’s health care; Medical devices: diabetes care, diagnostics, orthopaedics, neurological disease, vision care, infection prevention, cardiovascular disease and aesthetics; Pharmaceutical: cardiovascular and metabolic diseases, immunology, infectious diseases, neuroscience, oncology)
+McKesson Corporation WIKI/MCK (Pharmaceutical distributor; software; automation technology; business services and consulting; Health Mart retail pharmacy franchises)
+Merck & Company, Inc. WIKI/MRK (Pharmaceuticals: cardiovascular, diabetes, general medicine, immunology, infectious diseases, oncology, respiratory, women’s health; Vaccines, Animal Health Products)
+Mylan Inc. WIKI/MYL (Generic, branded generic and specialty pharmaceuticals)
+Novartis AG WIKI/NVS (Switzerland: eye care, generic pharmaceuticals, medicines)
+Novo Nordisk WIKI/NVO (Denmark: diabetes and other serious chronic conditions)
+Perrigo Company WIKI/PRGO (Ireland: generic over-the-counter, prescription pharmaceuticals, nutritional products, active pharmaceutical ingredients)
+Pfizer, Inc. WIKI/PFE (Consumer healthcare products; vaccines; oncology; examples of medicines include treatments for the following areas: cardiovascular/metabolic, inflammation, neuroscience, pain, rare diseases, women’s/men’s health)
+Sanofi WIKI/SNY (France: animal health products, consumer healthcare products, generic drugs, vaccines; drugs for diabetes, rare diseases, multiple sclerosis and oncology)
+Teva Pharmaceutical Industries Limited WIKI/TEVA (Israel: generic drugs, specialty pharmaceuticals, active pharmaceutical ingredients)
+Zoetis Inc. WIKI/ZTS (Animal health medicines and vaccines, diagnostic products and genetic tests)
+
+
+-- Real Estate
+
+- Apartment REITs
+
+AvalonBay Communities, Inc. WIKI/AVB
+Equity Residential WIKI/EQR
+Essex Property Trust, Inc. WIKI/ESS
+Mid-America Apartment Communities, Inc. WIKI/MAA
+
+
+- Asset Management
+
+Brookfield Asset Management Inc. WIKI/BAM (Canada: asset management company)
+
+
+- Communications Infrastructure
+
+American Tower Corporation WIKI/AMT (REIT: communications real estate)
+Crown Castle International Corporation WIKI/CCI (REIT: wireless infrastructure, towers, distributed antenna systems)
+
+
+- Data Center REITs
+
+Digital Realty Trust, Inc. WIKI/DLR
+Equinix, Inc. WIKI/EQIX
+
+
+- Diversified REITs
+
+SL Green Realty Corporation WIKI/SLG (Office and Retail)
+Vornado Realty Trust WIKI/VNO (Office and retail)
+
+
+- Health Care and Senior Housing REITs
+
+HCP, Inc. WIKI/HCP (Hospitals, life science, medical office, post-acute/skilled nursing and senior housing)
+Ventas, Inc. WIKI/VTR (Seniors housing and healthcare properties)
+Welltower Inc. WIKI/HCN (Seniors housing and health care real estate)
+
+
+- Hotel REITs
+
+Host Hotels & Resorts, Inc. WIKI/HST
+
+
+- Industrial REITs
+
+ProLogis, Inc. WIKI/PLD
+
+
+- Life Science REITs
+
+Alexandria Real Estate Equities, Inc. WIKI/ARE
+
+
+- Mall REITs
+
+General Growth Properties, Inc. WIKI/GGP
+Simon Property Group, Inc. WIKI/SPG
+
+
+- Mortgage REITs
+
+Annaly Capital Management Inc. WIKI/NLY
+
+
+- Office REITs  
+
+Boston Properties, Inc. WIKI/BXP
+
+
+- Retail REITs  
+
+Realty Income Corporation WIKI/O
+
+
+- Real Estate Services
+
+CBRE Group, Inc. WIKI/CBG (Commercial Real Estate Services include Appraisal, Consulting, Development, Investment Management, Project Management, Property Management, Research and Sales and Leasing)
+
+
+- Self-Storage REITs  
+
+Public Storage WIKI/PSA
+
+
+- Shopping Center REITs
+
+Regency Centers Corporation WIKI/REG
+
+
+- Timberland REITs
+
+Weyerhaeuser Company WIKI/WY
+
+
+-- Retail
+
+- Accessories
+
+Tapestry, Inc. WIKI/TPR (Formerly Coach, Inc.: Bags, business cases, eyewear, jewelry, travel products, scarves and watches)
+
+
+- Auto Part Stores and Service Centers
+
+Advance Auto Parts Inc. WIKI/AAP (Automotive replacement parts and accessories)
+AutoZone, Inc. WIKI/AZO (Automotive replacement parts and accessories)
+O’Reilly Automotive, Inc. WIKI/ORLY (Automotive replacement parts and accessories)
+
+
+- Auto Retailers
+
+CarMax Inc. WIKI/KMX (Used car retailer)
+
+
+- Clothing Stores
+
+L Brands, Inc. WIKI/LB (Diversified specialty stores: lingerie, personal care and beauty products; brands include Bath & Body Works, Henri Bendel , La Senza, PINK  and Victoria’s Secret)
+Ross Stores, Inc. WIKI/ROST (Ross Dress for Less apparel and home fashion retail stores; dd’s DISCOUNTS retail stores)
+TJX Companies, Inc.  WIKI/TJX (Multiple retail brands including HomeGoods, Marshalls, Sierra Trading Post and T.J. Maxx)
+
+
+- Department Stores  
+
+Target Corporation WIKI/TGT)
+
+
+- Discount Stores
+
+Dollar General Corporation WIKI/DG (General merchandise)
+Dollar Tree, Inc. WIKI/DLTR (General merchandise)
+
+
+- Diversified Retail
+
+Kroger Company  WIKI/KR (Diversified retailer: grocery stores, department stores, jewelry stores, etc.)
+Wal-Mart Stores, Inc. WIKI/WMT (Diversified retailer)
+
+
+- Drug Stores
+
+CVS Health Corporation WIKI/CVS (Nationwide drugstore chain, pharmacy benefit management services; retail medical clinics)
+Walgreens Boots Alliance, Inc. WIKI/WBA (Retail drugstores throughout the United States and numerous other countries; wholesale and distribution)
+
+
+- Electronics and Video Stores
+
+Best Buy Co., Inc. WIKI/BBY)
+
+
+- Home Improvement Stores 
+
+Home Depot, Inc. WIKI/HD (Home improvement stores: locations throughout North America)
+Lowe’s Companies, Inc. WIKI/LOW (Home improvement stores: locations throughout North America)
+Sherwin-Williams Company WIKI/SHW (Retail Stores: paints and coatings)
+
+
+- Jewelry Stores
+
+Tiffany & Co. WIKI/TIF (Retail locations located around the world)
+
+
+- Membership Warehouse
+
+Costco Wholesale Corporation WIKI/COST (Membership warehouse)
+
+
+- Salons and Beauty Products – Retail
+
+Ulta Salon, Cosmetics & Fragrance, Inc. WIKI/ULTA (Full-service salon; cosmetics and skin and hair care products)
+
+
+-- Semiconductor
+
+- Semiconductor Companies
+
+Advanced Micro Devices, Inc. WIKI/AMD (Fabless semiconductor company)
+Analog Devices, Inc. WIKI/ADI
+Broadcom Limited WIKI/AVGO (Fabless semiconductor company)
+Intel Corporation WIKI/INTC
+Maxim Integrated Products, Inc. WIKI/MXIM
+Microchip Technology Incorporated WIKI/MCHP
+Micron Technology, Inc. WIKI/MU
+NXP Semiconductors N.V. WIKI/NXPI (Netherlands)
+NVIDIA Corporation WIKI/NVDA (Fabless semiconductor company)
+Qualcomm Inc. WIKI/QCOM (Fabless semiconductor company)
+Skyworks Solutions, Inc. WIKI/SWKS
+STMicroelectronics N.V. WIKI/STM  (Switzerland)
+Texas Instruments Incorporated WIKI/TXN
+Taiwan Semiconductor Manufacturing Company Ltd. WIKI/TSM (Taiwan: pure-play foundry; Largest in the world)
+Xilinx, Inc. WIKI/XLNX (Fabless semiconductor company)
+
+
+- Semiconductors Equipment and Services
+
+Advanced Semiconductor Engineering, Inc. WIKI/ASX (Taiwan – Back-End Manufacturing Services)
+Applied Materials, Inc. WIKI/AMAT (Products for the semiconductor, display and solar photovoltaic industries)
+ASML Holding N.V. WIKI/ASML (Netherlands: leading supplier of lithography machines)
+KLA-Tencor Corporation WIKI/KLAC (Semiconductors: Defect inspection and metrology equipment)
+Lam Research Corporation WIKI/LRCX (Semiconductors: Wafer fabrication equipment)
+Synopsys, Inc. WIKI/SNPS (Electronic Design Automation (EDA) Tools and Semiconductor IP)
+
+
+-- Software
+
+- Mega-Cap Software Stocks
+
+Apple Inc. WIKI/AAPL (Classified in multiple tech categories: Examples of products and services include mobile communication and media devices, personal computers, portable digital music players; networking solutions; software platforms include iOS, OS X and watchOS; third-party digital content and applications; examples of brands include iPhone, iPad, Mac, iPod, Apple TV, iTunes)
+Microsoft Corporation WIKI/MSFT (Mega-cap technology company: operating segments include Devices and Consumer Licensing, Computing and Gaming Hardware, Phone Hardware, Devices and Consumer Other, Commercial Licensing and Commercial Other)
+
+
+- Software: Large-Cap Stocks
+
+Adobe Systems Incorporated WIKI/ADBE (Broad portfolio of products: reportable segments include digital marketing, digital media and print and publishing)
+Autodesk, Inc. WIKI/ADSK (3D design, engineering and entertainment software: reportable operating segments include (1) architecture, engineering and construction, (2) platform solutions and emerging business, (3) manufacturing and (4) media and entertainment)
+Citrix Systems, Inc. WIKI/CTXS (Workspace Services and Delivery Networking products; Communications Cloud, Documents Cloud and Workflow Cloud products)
+Oracle Corporation WIKI/ORCL (Operating segments include: cloud infrastructure as a service, new software licenses and cloud software subscriptions, software license updates and product support, hardware systems products, hardware systems support)
+Salesforce.com Inc. WIKI/CRM (Enterprise cloud computing solutions: customer relationship management)
+SAP SE. WIKI/SAP (Germany: provides enterprise application and analytics software to numerous industries)
+ServiceNow, Inc. WIKI/NOW (Cloud-based service management solutions with applications in facilities, field service, finance, human resources, IT, legal and marketing)
+Snap Inc. WIKI/SNAP (IPO March 2, 2017; Snapchat)
+
+
+- Cybersecurity
+
+Check Point Software Technologies Ltd. WIKI/CHKP (Israel, Internet security products and services: network security, endpoint security, data security and management solutions)
+Symantec Corporation WIKI/SYMC (Operates a civilian cyber intelligence threat network; products and services designed to protect people and information in digital environments)
+
+
+- Financial Services Software
+
+Intuit Inc. WIKI/INTU (Brands include QuickBooks, TurboTax, Quicken and Mint; operating segments include Small Business, Consumer Tax and Professional Tax)
+
+
+- IT Management
+
+CA Inc. WIKI/CA (IT management software and related services)
+Medical Software
+Cerner Corporation WIKI/CERN (Healthcare information technology: cloud-based platform; clinical, financial and management information systems)
+
+
+- Open Source Model
+
+Red Hat, Inc. WIKI/RHT (Open source software development model: cloud computing, middleware, operating systems, storage, virtualization)
+
+
+- Virtualization Technologies
+
+Vmware, Inc. WIKI/VMW (Virtualization technologies: software-defined data center; hybrid cloud computing; end-user computing)
+
+
+- Workplace and Work Management Software
+
+Automatic Data Processing, Inc. WIKI/ADP (Cloud-based solutions and services: human capital management, human resources, payroll services, recruiting, talent management, benefits administration, time and attendance management)
+Workday, Inc. WIKI/WDAY (Enterprise cloud applications: human capital management, financial management, payroll, analytics)
+
+
+-- Tech
+
+- Mega-Cap Technology Companies
+
+Alphabet Inc. WIKI/GOOG (Search engine, YouTube, Android, Chrome, ad technology platform, Google Play, Gmail)
+Apple Inc. WIKI/AAPL (Mobile communication and media devices, personal computers, portable digital music players; networking solutions; software platforms include iOS, OS X and watchOS; third-party digital content and applications; brands include iPhone, iPad, Mac, iPod, Apple TV, iTunes)
+Facebook, Inc. WIKI/FB (Facebook, Instagram, Messenger, WhatsApp)
+Microsoft Corporation WIKI/MSFT (Mega-cap technology company: operating segments include Devices and Consumer Licensing, Computing and Gaming Hardware, Phone Hardware, Devices and Consumer Other, Commercial Licensing and Commercial Other)
+
+
+- Large-Cap Technology Companies
+
+Dell Technologies Inc. WIKI/DVMT (Business include Dell, Dell EMC, SecureWorks and VMware)
+Hewlett Packard Enterprise Company WIKI/HPE)
+HP Inc. WIKI/HPQ (Personal computers, enterprise IT infrastructure, imaging and printing related products, software and technology consulting, outsourcing and support services)
+International Business Machines Corporation WIKI/IBM  (Consulting and IT infrastructure and business process services; cloud and cognitive offerings; middleware and operating systems software; infrastructure technologies)
+
+
+- Cybersecurity Companies
+
+Check Point Software Technologies Ltd. WIKI/CHKP (Israel, Internet security products and services: network security, endpoint security, data security and management solutions)
+Palo Alto Networks, Inc. WIKI/PANW (Security company: firewall appliances, centralized security management solution, virtual system upgrades, subscription services)
+Symantec Corporation WIKI/SYMC (Operates a civilian cyber intelligence threat network; products and services designed to protect people and information in digital environments)
+
+
+- Data Storage
+
+NetApp, Inc. WIKI/NTAP (Data storage software, systems and services)
+Seagate Technology WIKI/STX (Electronic data storage technology; hard disk drives)
+Western Digital Corporation WIKI/WDC (Data storage solutions: hard disk drives, solid-state drives, direct attached storage solutions, public and private cloud data center storage)
+
+
+- Electronic Devices
+
+Kyocera Corporation  WIKI/KYO  (Fine ceramic components, electronic devices, semiconductor parts, telecommunications equipment, information equipment)
+
+
+- Internet Television Networks
+
+Netflix, Inc. WIKI/NFLX
+
+
+- IT Consulting and Professional Services
+
+Accenture Plc. WIKI/ACN (Ireland: management consulting, technology and outsourcing services)
+CGI Group, Inc. WIKI/GIB (Canada: IT and business process services)
+Cognizant Technology Solutions Corporation WIKI/CTSH (Information technology, consulting and business process outsourcing services)
+Infosys Limited WIKI/INFY (India: consulting, technology, outsourcing)
+Wipro Limited WIKI/WIT (India: IT, consulting and outsourcing company)
+
+
+- Networking Equipment and Services
+
+Cisco Systems, Inc. WIKI/CSCO (Networking products and services)
+Juniper Networks, Inc. WIKI/JNPR (Networking software, silicon and systems)
+
+
+- Search Engines
+
+Baidu, Inc. WIKI/BIDU (China: internet search provider)
+
+
+- Semiconductor Companies
+
+Analog Devices, Inc. WIKI/ADI
+Broadcom Limited WIKI/AVGO (Fabless semiconductor company)
+Intel WIKI/INTC
+Micron Technology, Inc. WIKI/MU
+NXP Semiconductors N.V. WIKI/NXPI (Netherlands)
+NVIDIA Corporation WIKI/NVDA (Fabless semiconductor company)
+Qualcomm Inc. WIKI/QCOM (Fabless semiconductor company)
+Skyworks Solutions, Inc. WIKI/SWKS
+Texas Instruments Incorporated WIKI/TXN
+Taiwan Semiconductor Manufacturing Company Ltd. WIKI/TSM (Taiwan: pure-play foundry; Largest in the world)
+Xilinx, Inc. WIKI/XLNX (Fabless semiconductor company)
+
+
+- Semiconductors Equipment and Services
+
+Applied Materials, Inc. WIKI/AMAT (Products for the Semiconductor, Display and Solar Photovoltaic Industries)
+ASML Holding N.V. WIKI/ASML (Netherlands: Leading supplier of lithography machines)
+KLA-Tencor Corporation WIKI/KLAC (Defect Inspection and Metrology Equipment)
+Lam Research Corporation WIKI/LRCX (Wafer Fabrication Equipment)
+
+
+- Social Media
+
+Twitter, Inc. WIKI/TWTR (Information sharing and distribution platform products)
+
+
+- Software
+
+Adobe Systems Incorporated WIKI/ADBE (Broad portfolio of products: reportable segments include digital marketing, digital media and print and publishing)
+Autodesk, Inc. WIKI/ADSK (3D design, engineering and entertainment software: reportable operating segments include (1) architecture, engineering and construction, (2) platform solutions and emerging business, (3) manufacturing and (4) media and entertainment)
+Citrix Systems, Inc. WIKI/CTXS (Workspace Services and Delivery Networking products; Communications Cloud, Documents Cloud and Workflow Cloud products)
+Oracle Corporation WIKI/ORCL (Operating segments include: cloud infrastructure as a service, new software licenses and cloud software subscriptions, software license updates and product support, hardware systems products, hardware systems support)
+Salesforce.com Inc. WIKI/CRM (Enterprise cloud computing solutions: customer relationship management)
+SAP SE. WIKI/SAP (Germany: provides enterprise application and analytics software to numerous industries)
+Software: Financial Services
+Intuit Inc. WIKI/INTU (Brands include QuickBooks, TurboTax, Quicken and Mint; operating segments include Small Business, Consumer Tax and Professional Tax)
+
+
+- Software: IT Management
+
+CA Inc. WIKI/CA (IT management software and related services)
+
+
+- Software: Medical Software
+
+Cerner Corporation WIKI/CERN (Healthcare information technology: cloud-based platform; clinical, financial and management information systems)
+
+
+- Software: Open Source Model
+
+Red Hat, Inc. WIKI/RHT (Open source software development model: cloud computing, middleware, operating systems, storage, virtualization)
+
+
+- Software: Video and Mobile Games
+
+Activision Blizzard, Inc. WIKI/ATVI (Call of Duty, Destiny, Diablo, Guitar Hero, Hearthstone, Skylanders, StarCraft and World of Warcraft)
+Electronic Arts Inc. WIKI/EA (Dragon Age, EA Sports (multiple brands), Madden, Plants vs. Zombies and The Sims)
+NetEase, Inc. WIKI/NTES (China: online games (partnership with Blizzard Entertainment), e-mail and e-commerce services, advertising services, websites)
+
+
+- Software: Workplace and Work Management Software
+
+Automatic Data Processing, Inc. WIKI/ADP (Cloud-based solutions and services: human capital management, human resources, payroll services, recruiting, talent management, benefits administration, time and attendance management)
+Workday, Inc. WIKI/WDAY (Enterprise cloud applications: human capital management, financial management, payroll, analytics)
+
+
+- Virtualization Technologies
+
+Vmware, Inc. WIKI/VMW (Virtualization technologies: software-defined data center; hybrid cloud computing; end-user computing)
+
+
+-- Telecom and Communication
+
+- Communications Equipment
+
+Ericsson WIKI/ERIC  (Sweden: telecommunications equipment, software and services)
+Harris Corporation WIKI/HRS (Communications and information systems)
+Motorola Solutions, Inc. WIKI/MSI (Communication infrastructure, devices, accessories, software and services)
+Nokia Corporation WIKI/NOK (Finland: network infrastructure, location intelligence, technology development and intellectual property rights activities)
+QUALCOMM Inc. WIKI/QCOM (Digital communication technology)
+
+
+- Communications Infrastructure
+
+American Tower Corporation WIKI/AMT (REIT: communications real estate)
+Crown Castle International Corporation WIKI/CCI (REIT: wireless infrastructure, towers, distributed antenna systems)
+SBA Communications Corporation WIKI/SBAC (Wireless infrastructure)
+
+
+- Foreign Telephone Companies
+
+America Movil, S.A.B. de C.V. WIKI/AMX (Mexico)
+BCE, Inc. WIKI/BCE (Canada)
+BT Group Plc. WIKI/BT (United Kingdom)
+China Mobile Hong Kong Ltd. WIKI/CHL (China)
+China Telecom Corp Ltd. WIKI/CHA (China)
+China Unicom WIKI/Hong Kong Ltd. (CHU) (Hong Kong)
+Chunghwa Telecom Co., Ltd. WIKI/CHT (Taiwan)
+Mobile TeleSystems WIKI/MBT (Russia)
+NTT DOCOMO, Inc. WIKI/DCM (Japan)
+Orange WIKI/ORAN (France)
+PT Telekomunikasi Indonesia, Tbk WIKI/TLK (Indonesia)
+Rogers Communication, Inc. WIKI/RCI (Canada)
+SK Telecom Co., Ltd. WIKI/SKM (South Korea)
+Telecom Italia S.P.A. WIKI/TI (Italy)
+Telefonica Brasil S.A. WIKI/VIV (Brazil)
+Telefonica S.A. WIKI/TEF (Spain)
+TELUS Corporation WIKI/TU (Canada)
+Vodafone Group Plc. WIKI/VOD (United Kingdom)
+
+
+- Telephone Companies 
+
+AT&T Inc. WIKI/T (Integrated communications, wireless services in the United States and Mexico, DIRECTTV)
+CenturyLink, Inc. WIKI/CTL (Integrated communications, data centers)
+Sprint Corporation WIKI/S  (Brands include Sprint, Boost Mobile, Virgin Mobile and Assurance Wireless)
+T-Mobile US, Inc. WIKI/TMUS (Wireless communications services to approximately 55 million customers)
+Verizon Communications Inc. WIKI/VZ (Integrated communications services; operations in approximately 150 countries)v
+
+
+-- Transportation
+
+- Airlines
+
+Alaska Air Group, Inc. WIKI/ALK (Alaska Airlines and Horizon Air)
+American Airlines Group, Inc. WIKI/AAL (American Airlines and US Airways)
+Delta Air Lines, Inc. WIKI/DAL (Partners include Air France-KLM, Alitalia, Virgin Australia and Virgin Atlantic)
+Gol Linhas Aereas Inteligentes S.A. WIKI/GOL (Brazil)
+Ryanair Holdings Plc. WIKI/RYAAY (Ireland)
+Southwest Airlines Company WIKI/LUV (Approximately 3,600 daily flights)
+United Continental Holdings, Inc. WIKI/UAL (United Air Lines)
+
+
+- Freight and Logistics
+
+C.H. Robinson Worldwide, Inc. WIKI/CHRW (Non-asset based transportation services; fresh produce)
+Expeditors International of Washington, Inc. WIKI/EXPD (Non-asset based transportation services)
+FedEx Corporation WIKI/FDX
+United Parcel Service, Inc. WIKI/UPS
+
+
+- Railroads  
+
+Canadian National Railway Company WIKI/CNI (Canada: 20,000 miles of track which crosses Canada and the United States)
+Canadian Pacific Railway Limited WIKI/CP (Canada: 13,500 miles of track that spans across Canada and the United States)
+CSX Corporation WIKI/CSX (20,000 miles of track primarily located in the Eastern region of the United States)
+Norfolk Southern Corporation WIKI/NSC (Subsidiaries include Norfolk Southern Railway, Lambert’s Point Docks and Pocahontas Land)
+Union Pacific Corporation WIKI/UNP (Western region of the United States and connects with Canada’s rail systems and all six major gateways into Mexico)
+
+
+- Trucking
+
+J.B. Hunt Transport Services, Inc. WIKI/JBHT (Full truckload freight transportation services throughout Canada, Mexico and the United States)
+
+
+-- Utility
+
+- Diversified Utilities
+
+Ameren Corporation WIKI/AEE (Services Provided in the Midwest Region)
+Avangrid, Inc. WIKI/AGR (Operations in approximately 25 states)
+CenterPoint Energy, Inc. WIKI/CNP (Services provided in the Midwest and Southeast Regions)
+CMS Energy Corporation WIKI/CMS (Services Provided in Michigan)
+Consolidated Edison Inc. WIKI/ED (Services Provided in New York)
+Dominion Resources, Inc. WIKI/D (Services Provided in Multiple Regions)
+DTE Energy Company WIKI/DTE (Services Provided in Michigan)
+Duke Energy Corporation WIKI/DUK (Services Provided in Multiple Regions)
+Eversource Energy WIKI/ES (Services Provided in the Northeast Region)
+Exelon Corporation WIKI/EXC (Services Provided in Multiple Regions)
+Pacific Gas & Electric Co. WIKI/PCG (Services Provided in California)
+PPL Corporation WIKI/PPL (Services Provided in Kentucky and Pennsylvania)
+Public Service Enterprise Group Incorporated WIKI/PEG (Services Provided in New Jersey)
+Sempra Energy WIKI/SRE (Services Provided in Multiple Regions; natural gas midstream assets)
+WEC Energy Group WIKI/WEC (Services Provided in Wisconsin and Michigan)
+Xcel Energy Inc. WIKI/XEL (Services Provided in the Midwest and Western Regions)
+
+
+- Electric Utilities
+
+American Electric Power Company, Inc. WIKI/AEP (Service provided in the Southeast and Midwest Regions)
+Edison International WIKI/EIX (Service provided in California)
+Entergy Corporation WIKI/ETR (Service provided in Arkansas, Louisiana, Mississippi and Texas)
+FirstEnergy Corporation WIKI/FE (Service provided in the Midwest and Mid-Atlantic Regions)
+NextEra Energy, Inc. WIKI/NEE (Service provided in Florida; also operates commercial nuclear power units in Florida, New Hampshire, Iowa and Wisconsin)
+Southern Company WIKI/The (SO) (Service provided in the Southeast region; Nuclear Units)
+
+
+- Water Utilities
+
+American Water Works WIKI/AWK (Water utility services provided in multiple regions)
