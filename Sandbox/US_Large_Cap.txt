@@ -1,4 +1,4 @@
--- -- http://investsnips.com/large-cap-stocks/
+SOURCE http://investsnips.com/large-cap-stocks/
 
 -- Aerospace and Defense
 
@@ -383,33 +383,33 @@ The Blackstone Group L.P. WIKI/BX (Credit-oriented funds, closed end mutual fund
 
 - Asset Management
 
-Ameriprise Financial Services, Inc. WIKI/AMP)
-Bank of New York Mellon Corporation WIKI/BK)
-BlackRock, Inc. WIKI/BLK)
-Franklin Resources, Inc. WIKI/BEN)
-Goldman Sachs Group, Inc. WIKI/GS)
-Invesco Plc. WIKI/IVZ)
-Morgan Stanley WIKI/MS)
-Nomura Holdings Inc WIKI/NMR)
-T Rowe Price Group, Inc. WIKI/TROW)
-The Charles Schwab Corporation WIKI/SCHW)
+Ameriprise Financial Services, Inc. WIKI/AMP
+Bank of New York Mellon Corporation WIKI/BK
+BlackRock, Inc. WIKI/BLK
+Franklin Resources, Inc. WIKI/BEN
+Goldman Sachs Group, Inc. WIKI/GS
+Invesco Plc. WIKI/IVZ
+Morgan Stanley WIKI/MS
+Nomura Holdings Inc WIKI/NMR
+T Rowe Price Group, Inc. WIKI/TROW
+The Charles Schwab Corporation WIKI/SCHW
 
 
 - Brokers
 
 Interactive Brokers Group, Inc. WIKI/IBKR (Automated electronic broker)
 Raymond James Financial, Inc. WIKI/RJF (Broker-dealer; investment banking)
-TD Ameritrade Holding Corporation WIKI/AMTD) Brokerage and financial services)
+TD Ameritrade Holding Corporation WIKI/AMTD Brokerage and financial services)
 
 
 - Credit Cards
 
-American Express Company WIKI/AXP)
-Discover Financial Services WIKI/DFS)
+American Express Company WIKI/AXP
+Discover Financial Services WIKI/DFS
 FleetCor Technologies, Inc. WIKI/FLT (Fuel cards, food cards, corporate discount lodging cards)
-Mastercard Incorporated WIKI/MA)
+Mastercard Incorporated WIKI/MA
 Synchrony Financial WIKI/SYF (Private label credit cards)
-Visa Inc. WIKI/V)
+Visa Inc. WIKI/V
 
 
 - Exchanges
@@ -494,7 +494,7 @@ Tyson Foods, Inc. WIKI/TSN (Producer of beef, chicken and pork; prepared food pr
 
 - Restaurants
 
-Chipotle Mexican Grill, Inc. WIKI/CMG)
+Chipotle Mexican Grill, Inc. WIKI/CMG
 
 
 - Snack Foods  
@@ -832,9 +832,9 @@ TOTAL S.A. WIKI/TOT (France: Integrated Oil & Gas)
 
 - Midstream
 
-Enbridge Inc. WIKI/ENB)
+Enbridge Inc. WIKI/ENB
 Enbridge Energy, L.P. WIKI/EEP (Pipelines, processing facilities, NGL fractionation facilities, storage terminals)
-Energy Transfer Equity, L.P. WIKI/ETE)
+Energy Transfer Equity, L.P. WIKI/ETE
 Energy Transfer Partners WIKI/ETP (Pipelines, storage facilities, NGL fractionation facilities, convenience stores)
 Enterprise Products Partners L.P. WIKI/EPD (Pipelines, processing plants, NG L and propylene fractionators, storage facilities)
 Kinder Morgan, Inc. WIKI/KMI (One of the largest midstream companies in the world)
@@ -997,7 +997,7 @@ TJX Companies, Inc.  WIKI/TJX (Multiple retail brands including HomeGoods, Marsh
 
 - Department Stores  
 
-Target Corporation WIKI/TGT)
+Target Corporation WIKI/TGT
 
 
 - Discount Stores
@@ -1020,7 +1020,7 @@ Walgreens Boots Alliance, Inc. WIKI/WBA (Retail drugstores throughout the United
 
 - Electronics and Video Stores
 
-Best Buy Co., Inc. WIKI/BBY)
+Best Buy Co., Inc. WIKI/BBY
 
 
 - Home Improvement Stores 
@@ -1143,7 +1143,7 @@ Microsoft Corporation WIKI/MSFT (Mega-cap technology company: operating segments
 - Large-Cap Technology Companies
 
 Dell Technologies Inc. WIKI/DVMT (Business include Dell, Dell EMC, SecureWorks and VMware)
-Hewlett Packard Enterprise Company WIKI/HPE)
+Hewlett Packard Enterprise Company WIKI/HPE
 HP Inc. WIKI/HPQ (Personal computers, enterprise IT infrastructure, imaging and printing related products, software and technology consulting, outsourcing and support services)
 International Business Machines Corporation WIKI/IBM  (Consulting and IT infrastructure and business process services; cloud and cognitive offerings; middleware and operating systems software; infrastructure technologies)
 
