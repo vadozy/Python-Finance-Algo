@@ -129,8 +129,8 @@ def add_months(sourcedate, months):
     return datetime.date(year, month, day)
 
 
-def generate_periods(start_date, end_date, months):
-    """Retunrs list of tuples of 2 dates, with months difference in each tuple
+def generate_periods(start_date, end_date, months, months_overlap=0):
+    """Returns list of tuples of 2 dates, with months difference in each tuple
 
     For example calling generate_periods('2010-01-25', '2010-08-25', 3) retunrs:
         [(datetime.date(2010, 1, 25), datetime.date(2010, 4, 25)),
@@ -143,7 +143,9 @@ def generate_periods(start_date, end_date, months):
     end_date : datetime.datetime or datetime.date or str 'YYYY-mm-dd'
        The date up till which the list is generated
     months     : int
-        Nimber of months between dates in each tuple
+        Number of months between dates in each tuple
+    months_overlap : int (default = 0) must be less than months
+        Number of months that 2 adjacent periods overlap
 
     Returns
     -------
@@ -153,12 +155,15 @@ def generate_periods(start_date, end_date, months):
     start_date = _convert_date(start_date)
     end_date   = _convert_date(end_date)
 
+    if (months_overlap < 0 or months_overlap >= months):
+        raise Exception("months_overlap [ {} ] must be between 0 and months [ {} ]".format(months_overlap, months))
+
     ret = []
     d1 = start_date
     d2 = add_months(d1, months)
     while d2 <= end_date:
         ret.append((d1, d2))
-        d1, d2 = d2, add_months(d2, months)
+        d1, d2 = add_months(d1, months - months_overlap), add_months(d2, months - months_overlap)
 
     if len(ret) == 0:
         raise Exception("Could not generate {} months periods between {} and {}".format(months, start_date, end_date))
@@ -166,7 +171,7 @@ def generate_periods(start_date, end_date, months):
 
 
 def _convert_date(date):
-    """Retunrs datetime.date type
+    """Returns datetime.date type
 
     Parameters
     ----------
@@ -188,3 +193,24 @@ def _convert_date(date):
         raise Exception("Unexpected Date Type")
 
     return date
+
+
+def sharpe(s, d1, d2, libor=0):
+    """Returns the annualized sharpe ratio
+    Assumed 252 trading days per year, multiply by sqrt(252) to annualize
+
+    Parameters
+    ----------
+    s (pandas Series) with daily returns
+    d1, d2 : datetime.datetime or datetime.date or str 'YYYY-mm-dd'
+       The dates between which the sharpe should be computed
+    libor: (float) risc free annual rate (in percent)
+
+    Returns
+    -------
+    ASR : float
+        annualized sharpe ratio
+    """
+    libor_daily_return = (1 + libor * 0.01) ** (1 / 252) - 1
+    s = s.loc[d1:d2]
+    return (252 ** 0.5) * (s.mean() - libor_daily_return) / s.std()
